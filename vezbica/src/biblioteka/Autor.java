@@ -6,8 +6,7 @@ public class Autor {
 
 	private String naziv;
 
-	private String prezime;
 	
-	private int godina;
+
 
 }
